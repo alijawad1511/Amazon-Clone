@@ -13,7 +13,7 @@ This is a frontend project in which I have developed the Home Page of Amazon. It
 - CSS
 
 ## Icons
-![Fontawsome](https://fontawesome.com/)
+[Fontawsome](https://fontawesome.com/)
 
 ## Authors
 - [@alijawad1511](https://www.github.com/alijawad1511)
