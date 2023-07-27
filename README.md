@@ -8,7 +8,8 @@ This is a frontend project in which I have developed the Home Page of Amazon
 
 ## Screenshot
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/alijawad1511/Amazon-Clone/blob/master/img/screenshot1.jpg?raw=true))
+
 
 ## Technologies
 
